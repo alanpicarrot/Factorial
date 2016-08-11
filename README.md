@@ -1,0 +1,2 @@
+# Factorial
+practice of DS

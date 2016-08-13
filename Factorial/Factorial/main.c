@@ -1,4 +1,4 @@
-//
+//  Test by Rick
 //  main.c
 //  Factorial
 //
